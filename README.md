@@ -17,8 +17,11 @@ This bulit was setup on Arch-Minimal
 ![test1](screenshots/test1.png)
 - Liberwolf / terminal 
 ![test2](screenshots/test2.png)
+- fastfetch / ttyclock
 ![test3](screenshots/test3.png)
+- Nvim / Yazi
 ![test4](screenshots/test4.png)
+- Fuzzel  
 ![test5](screenshots/test5.png)
 
 
