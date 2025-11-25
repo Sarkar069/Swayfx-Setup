@@ -13,6 +13,8 @@ This bulit was setup on Arch-Minimal
 
 
 ## Screenshots
+- Fastfetch 
 ![test1](screenshots/test1.png)
+- Liberwolf / terminal 
 ![test2](screenshots/test2.png)
 
