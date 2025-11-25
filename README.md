@@ -1,0 +1,2 @@
+# Swayfx-Setup
+Arch + Swayfx = ❤️
