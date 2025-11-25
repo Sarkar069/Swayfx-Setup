@@ -17,4 +17,11 @@ This bulit was setup on Arch-Minimal
 ![test1](screenshots/test1.png)
 - Liberwolf / terminal 
 ![test2](screenshots/test2.png)
+![test3](screenshots/test3.png)
+![test4](screenshots/test4.png)
+![test5](screenshots/test5.png)
+
+
+
+
 
