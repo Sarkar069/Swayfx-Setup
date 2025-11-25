@@ -14,14 +14,13 @@ This bulit was setup on Arch-Minimal
 
 
 ## Screenshots
-- Fastfetch 
+- Terminal
 ![test1](screenshots/test1.png)
-- fastfetch / ttyclock
 ![test3](screenshots/test3.png)
-- Nvim / Yazi
-![test4](screenshots/test4.png)
+
 - Fuzzel  
 ![test5](screenshots/test5.png)
+
 - Dunst
 ![test5](screenshots/test7.png)
 
