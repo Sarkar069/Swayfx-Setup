@@ -6,7 +6,7 @@ This bulit was setup on Arch-Minimal
 
 - Sway keybindings but without any bars
 - Fuzzel launcher
-- [Pywal16](https://github.com/eylles/pywal16) Integration with foot 
+- [Pywal16](https://github.com/eylles/pywal16) Integration with sway/foot 
 - Handy scripts 
 - Fastfetch
 - Dnust
