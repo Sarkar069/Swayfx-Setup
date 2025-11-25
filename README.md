@@ -24,8 +24,8 @@ This bulit was setup on Arch-Minimal
 ![test4](screenshots/test4.png)
 - Fuzzel  
 ![test5](screenshots/test5.png)
-
-
+- Dunst
+![test5](screenshots/test7.png)
 
 
 
