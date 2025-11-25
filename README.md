@@ -12,3 +12,7 @@ This bulit was setup on Arch-Minimal
 - .zshrc with starship
 
 
+## Screenshots
+![test1](screenshots/test1.png)
+![test2](screenshots/test2.png)
+
