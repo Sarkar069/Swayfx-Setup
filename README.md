@@ -10,7 +10,7 @@ This bulit was setup on Arch-Minimal
 - Handy scripts 
 - Fastfetch
 - Dnust
-- .zshrc with starship
+- zsh with starship
 
 
 ## Screenshots
