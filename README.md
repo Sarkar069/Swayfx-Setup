@@ -8,7 +8,8 @@ This bulit was setup on Arch-Minimal
 - Fuzzel launcher
 - [Pywal16](https://github.com/eylles/pywal16) Integration with foot 
 - Handy scripts 
-- Fastfetch 
+- Fastfetch
+- Dnust
 - .zshrc with starship
 
 
