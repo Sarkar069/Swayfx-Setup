@@ -14,14 +14,9 @@ This bulit was setup on Arch-Minimal
 
 
 ## Screenshots
-- Terminal
 ![test1](screenshots/test1.png)
 ![test3](screenshots/test3.png)
-
-- Fuzzel  
 ![test5](screenshots/test5.png)
-
-- Dunst
 ![test5](screenshots/test7.png)
 
 
